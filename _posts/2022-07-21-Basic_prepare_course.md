@@ -5,6 +5,7 @@ categories:
 tag: [python]
 toc: true
 author_profile: false
+toc_sticky: true
 ---
 
 <head>
