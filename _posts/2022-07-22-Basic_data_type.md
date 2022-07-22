@@ -1186,7 +1186,7 @@ True
 
     [expr for val in collection if condition]
 
-    </code>
+</code>
 
 
 이를 반복문으로 구현하면 다음과 같다.
@@ -1201,7 +1201,7 @@ True
 
             result.append(expr)
 
-    </code>
+</code>
 
 
 필터 조건은 생략 가능하다. 예를 들어 문자열 리스트가 있다면 아래처럼 문자열의 길이가 2 이하인 문자열은 제외하고 나머지를 대문자로 바꾸는 게 가능하다.
