@@ -166,17 +166,12 @@ IPython은 파이썬 자체에 존재하지 않는 '매직'명령어라고 하�
 파이썬은 R, C++, 자바, 펄 같은 다른 많은 언어와는 다르게 중괄호 대신 공백 문자(탭이나 스페이스)를 사용해서 코드를 구조화한다. 콜론(:)은 코드 블록의 시작을 의미하며 블록이 끝날 때까지 블록 안에 있는 코드는 모두 같은 크기만큼 들여 써야 한다.
 
 <code>
-
     for x in array:
-
         if x < pivot:
-
              less.append(x)
-
          else:
-
              greater.append(x)
-
+</code>
 
 ## 주석
 
@@ -442,7 +437,6 @@ a_tuple[1] = 'four'
 
 
 |자료형|설명|
-
 |:---|:---|
 |None|파이썬의 'null'값(하나의 유일한 None 인스턴스만 존재한다.)|
 |str|문자열 자료형. 유니코드(UTF-8 인코딩) 문자열|
@@ -1017,12 +1011,9 @@ True
 `for` 문은 리스트나 튜플 같은 컬렉션이나 이터레이터를 순회한다. `for` 문의 기본 문법은 다음과 같다.
 
 <code>
-
     for value in collection:
-
         # value를 이용하는 코드 작성
-
-    </code>
+</code>
 
 
 `for` 문은 `continue` 예약어를 사용해서 남은 블록을 건너뛰고 다음 순회로 넘어갈 수 있다.
@@ -1070,12 +1061,9 @@ for i in range(4): # i는 0 ~ 3 까지 순회
 컬렉션의 원소나 이터레이터가 순차적인 자료(예를 들면 튜플이나 리스트)라면 `for` 문 안에서 여러 개의 변수로 꺼낼 수 있다.
 
 <code>
-
     for a, b, c in iterator:
-
         # 필요한 코드 작성
-
-    </code>
+</code>
 
 
 ### while 문
@@ -1105,22 +1093,14 @@ print(total)
 
 
 <code>
-
     if x < 0:
-
         print('negative!)
-
     elif x == 0:
-
         # TODO: 여기에 내용 채울 것(아직 미구현)
-
         pass
-
     else:
-
         print('positive!)
-
-             </code>
+</code>
 
 
 ### range
@@ -1189,10 +1169,8 @@ for i in range(len(seq)): # len(seq) = 4이므로 i는 0 ~ 3
 
 
 <code>
-
     value = true-expr if condition else false-expr
-
-    </code>
+</code>
 
 
 여기서 `true-expr`과 `false-expr`은 어떤 파이썬 표현이라도 상관없다. 삼항 표현식은 `if-else` 블록처럼 조건이 참인 경우의 표현식만 실행된다. 따라서 삼항 표현식에서 `if`와 `else`에 비용이 많이 드는 계산이 올 수 있으며 조건이 참인 파이썬 표현만 실행된다.
