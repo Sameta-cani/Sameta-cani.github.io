@@ -821,3 +821,9 @@ NumPy를 활용하는 코드에서 좋은 성능을 이끌어내는 방법은 �
 
 NumPy만으로 원하는 성능을 이끌어내지 못한다면 코드를 C나 포트란으로 작성하거나 Cython을 사용해서 성능을 높일 수 있다.
 
+<h2>관련 포스트 더 보기</h2>
+<li> <a href='https://sameta-cani.github.io/numpy/NumPy01/' target='blank'>NumPy01: NumPy는 무엇인가?</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/NumPy02/' target='blank'>NumPy02: ndarray, 인덱싱, 축</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/NumPy03/' target='blank'>NumPy03: 유니버셜 함수, 배열지향 프로그래밍, 파일 입출력, 선형대수, 난수 생성</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/Advanced-NumPy01/' target='blank'>Advanced NumPy01: ndarray 객체 구조, 고급 배열 조작 기법, 브로드캐스팅, 고급 ufunc 사용법</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/Example-of-going-up-and-down-stairs/' target='blank'>Example of going up and down stairs: 간단한 NumPy 실습</a></li>
