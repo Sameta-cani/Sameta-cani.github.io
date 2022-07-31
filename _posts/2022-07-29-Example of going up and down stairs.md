@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Example of going up and down stairs"
-categories:
-tag: [python]
+categories: NumPy
+tag: [python, NumPy]
 # toc: true
 author_profile: false
 ---
