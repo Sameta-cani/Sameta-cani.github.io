@@ -404,3 +404,10 @@ for i in range(10): # 10회 반복
 <div style="text-align : center;">
        <img src="../../images/2022_07_30_image/simul03.png">
 </div>
+
+<h2>관련 포스트 더 보기</h2>
+<li> <a href='https://sameta-cani.github.io/numpy/NumPy01/' target='blank'>NumPy01: NumPy는 무엇인가?</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/NumPy02/' target='blank'>NumPy02: ndarray, 인덱싱, 축</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/NumPy03/' target='blank'>NumPy03: 유니버셜 함수, 배열지향 프로그래밍, 파일 입출력, 선형대수, 난수 생성</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/Advanced-NumPy01/' target='blank'>Advanced NumPy01: ndarray 객체 구조, 고급 배열 조작 기법, 브로드캐스팅, 고급 ufunc 사용법</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/Advanced-NumPy02/' target='blank'>Advanced NumPy02: 구조화된 배열과 레코드 배열, 정렬, 고급 배열 입출, 성능 팁</a></li>

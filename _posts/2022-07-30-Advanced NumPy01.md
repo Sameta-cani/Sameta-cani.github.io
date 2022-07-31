@@ -1570,3 +1570,10 @@ arr = np.random.randn(10000)
 1.68 ms ± 239 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
 2.34 µs ± 140 ns per loop (mean ± std. dev. of 7 runs, 100,000 loops each)
 </pre>
+
+<h2>관련 포스트 더 보기</h2>
+<li> <a href='https://sameta-cani.github.io/numpy/NumPy01/' target='blank'>NumPy01: NumPy는 무엇인가?</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/NumPy02/' target='blank'>NumPy02: ndarray, 인덱싱, 축</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/NumPy03/' target='blank'>NumPy03: 유니버셜 함수, 배열지향 프로그래밍, 파일 입출력, 선형대수, 난수 생성</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/Advanced-NumPy02/' target='blank'>Advanced NumPy02: 구조화된 배열과 레코드 배열, 정렬, 고급 배열 입출, 성능 팁</a></li>
+<li> <a href='https://sameta-cani.github.io/numpy/Example-of-going-up-and-down-stairs/' target='blank'>Example of going up and down stairs: 간단한 NumPy 실습</a></li>
