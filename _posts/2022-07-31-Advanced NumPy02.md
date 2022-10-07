@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Advanced NumPy02"
+title:  "구조화된 배열과 레코드 배열, 정렬, 고급 배열 입출력, 성능 팁"
 categories: NumPy
 tag: [python, NumPy]
 toc: true
