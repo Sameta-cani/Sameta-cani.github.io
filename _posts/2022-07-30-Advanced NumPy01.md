@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Advanced NumPy01"
+title:  "ndarray 객체 구조, 고급 배열 조작 기법, 브로드캐스팅, 고급 ufunc 사용법"
 categories: NumPy
 tag: [python, NumPy]
 toc: true
